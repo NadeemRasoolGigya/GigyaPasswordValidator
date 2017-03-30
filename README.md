@@ -56,4 +56,4 @@ The final part is to include your implementation of the hashing algorithm and re
 
 ## Demo
 
-A demo can be found at https://tools.gigya-cs.com/password
+A demo can be found at https://orthodox.io/password
